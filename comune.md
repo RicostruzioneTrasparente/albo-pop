@@ -45,7 +45,7 @@ permalink: /comune/
                         <table class="table">
                             <tr>
                                 <td><a ex:href-content=".website" target="_blank">Comune di <strong><span ex:content=".name" class="petrusino"></span></strong></a></td>
-                                <td><a ex:href-content=".albopop_feed" target="_blank"><img src="../img/Rssicon_3614.gif"></a></td>
+                                <td><a ex:href-content=".albopop_feed" target="_blank"><img src="../images/Rssicon_3614.gif"></a></td>
                                 <td><span ex:content=".tags"></span></td>
                                 <td><span ex:content=".datetime"></span></td>
                             </tr>
